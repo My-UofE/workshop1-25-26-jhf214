@@ -28,5 +28,3 @@ def process_guess(letter, board, word):
     else:
         print(f"Sorry, '{letter}' is not in the word")
         return False
-
-process_guess('d','dwadw,dw','wdwdw')
